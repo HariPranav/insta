@@ -1,1 +1,8 @@
 C:\Users\harip\AndroidStudioProjects\instagram_clone\assets\fonts\Billabong.ttf
+
+
+
+fonts:
+    - family: Billabong
+      fonts:
+        - asset: assets/fonts/Billabong.ttf
