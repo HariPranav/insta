@@ -1,1 +1,5 @@
 
+fonts:
+    - family: Billabong
+      fonts:
+        - asset: assets/fonts/Billabong.ttf
